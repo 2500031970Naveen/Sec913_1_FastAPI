@@ -62,7 +62,7 @@
 #     print("grade is C")
 
 
-type_of_v1 = "Anil kumar Maripi"
+type_of_v1 = "Mahanthi Naveen kumar"
 type_of_v2 = 123.2
 type_of_v3 = 23
 
